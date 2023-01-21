@@ -1,0 +1,60 @@
+const Main = [
+    {
+        id: 1,
+        name: "Kashmir Valley",
+        image: "https://images.thrillophilia.com/image/upload/s--_Xp6t_y4--/c_fill,f_auto,fl_strip_profile,h_600,q_auto,w_975/v1/images/photos/000/127/512/original/1524635958_shutterstock_709472335.jpg.jpg?1524635958",
+        description: "If you are an adrenaline junkie and want to explore the thrilling nature then mountaineering and river rafting are good adventure activities in Kashmir. The perfect time to visit the Kashmir valley is between the months of March and October.",
+        comment: "Add to Wishlist",
+        type: "Nature",
+    },
+    {
+        id: 2,
+        name: "Taj Mahal",
+        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Taj_Mahal_in_India_-_Kristian_Bertel.jpg/640px-Taj_Mahal_in_India_-_Kristian_Bertel.jpg",
+        description: "The massive ivory-white structure” renowned as the symbol of unconditional love, was built by Emperor Shah Jahan in the loving memory of his third wife Mumtaz Mahal. This mausoleum, is one of the Seven Wonders of the World. Often called the “Jewel of Muslim artistry” & “Taj Mahal”",
+        comment: "Add to Wishlist",
+        type: "Historical",
+    },
+    {
+        id: 3,
+        name: "Jaipur",
+        image: "https://storage.karmagroup.com/assets/karmagroup.com/blog/2018/05/Hawa-Mahal.jpg",
+        description: "Being the capital of Rajasthan, and a practical getaway for many, Jaipur is the most visit city by tourists. And while you may be here for all the shopping and the Hawa Mahal, don’t miss out on the grand Amer Fort and the royal City Palace. ",
+        comment: "Add to Wishlist",
+        type: "Historical",
+    },
+    {
+        id: 4,
+        name: "Dudhsagar Falls",
+        image: "https://infiniteadventureclub.com/wp-content/uploads/2022/02/1513424394_Dudhsagar.jpg.jpg",
+        description: "If you thought Goa is all about beaches, sand, and crazy nightlife, think again. For those who would like to see the other side of Goa, head to Dudhsagar Falls. The waterfalls are actually tiered falls about 60 km from the capital city of Panaji.",
+        comment: "Add to Wishlist",
+        type: "Nature",
+    },
+    {
+        id: 5,
+        name: "Mahabaleshwar",
+        image: "https://www.holidify.com/images/bgImages/RAJMACHI.jpg",
+        description: "A perfect trekking destination, it takes days to completely unravel the various mysteries of this hill station. The famous Panchaganga Temple in Old Mahabaleshwar is an important pilgrimage site, said to be the origin of River Krishna and four other rivers. The Mahabaleshwar  Temple is famous for the swayambhu lingam of Lord Shiva. Needle Hole Point, Arthur’s Seat, Sunrise Point, Kate’s Point, 3 Monkey Point and Venna Lake are some of the popular attractions here.",
+        comment: "Add to Wishlist",
+        type: "Nature",
+    },
+    {
+        id: 6,
+        name: "Ladakh",
+        image: "https://static.toiimg.com/photo/87726041.cms",
+        description: "Ladakh is majorly popular amongst the adventurers who feel welcomed by the number of adrenaline rushing activities offered here. The union territory is amongst the top trekking destinations in India with amazing and unmatched treks like the popular Frozen River Trek/Chadar Trek. Ladakh also has opportunities for mountaineering, motor biking, mountain biking, white water rafting and more.",
+        comment: "Add to Wishlist",
+        type: "Peace",
+    },
+    {
+        id: 7,
+        name: "Red Fort / Lal Kila",
+        image: "https://assets-news.housing.com/news/wp-content/uploads/2021/07/20184610/All-about-the-Delhi-Red-Fort-or-Lal-Kila-shutterstock_613431395.jpg",
+        description: "A Delhi Tour is synonymous with a trip of Red Fort, famously called as Lal Kila of Delhi. Originally Red Fort was known as 'Qila-I-Mubarak', meaning a residence for the royal family. Comprising of many buildings with intricate carvings, floral motifs, double domes and majestic defence wall of around 2.5 km, Red fort is spread over an area of 255 acres.It was Emperor Shah Jahan who built Red Fort",
+        comment: "Add to Wishlist",
+        type: "Historical",
+    },
+
+];
+export default Main;
