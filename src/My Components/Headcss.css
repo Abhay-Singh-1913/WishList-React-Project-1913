@@ -1,0 +1,41 @@
+body{
+    margin: 0;
+    padding: 0;
+    
+}
+header{
+    height: 370px;
+    background-image: url(https://www.theindiatourism.com/images/tourism-india.jpg);
+    -webkit-background-size: cover;
+	background-size: cover;
+	background-position: center center;
+	background-repeat: no-repeat;
+}
+.heading{
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    font-family:fantasy;
+    font-size: 50px;
+    letter-spacing: 5px;
+    padding-top: 80px;
+    text-shadow:3px 0px 5px #4f4e40;
+    color: #001055;
+}
+pre{
+    justify-content: center;
+    margin: auto;
+    display: flex;
+    padding-top: 20px;
+    font-family: cursive;
+    font-size: larger;
+    text-align: center;
+    font-weight: 600;
+    color: #ffeb3b;
+}
+.foot{
+    background: rgba(0, 0, 0, 0.831);
+    padding: 10px;
+    color: aliceblue;
+    z-index: index;
+}
