@@ -55,11 +55,14 @@ p {
 .like {
     padding: 5px 10px;
     /* border-radius: 5px; */
+    /* border: 1px solid rgb(100, 100, 100); */
     /* color: #fff; */
+    
 }
 
 .like:hover {
     pointer-events: visibleFill;
+    cursor: pointer;
 
 }
 
@@ -95,3 +98,4 @@ img {
     background: rgba(0, 0, 255, 0.293);
     border-radius: 5px;
 }
+.btn:

@@ -27,11 +27,13 @@ pre{
     margin: auto;
     display: flex;
     padding-top: 20px;
-    font-family: cursive;
+    font-family:Arial, Helvetica, sans-serif;
+    font-style: italic;
     font-size: larger;
     text-align: center;
     font-weight: 600;
-    color: #ffeb3b;
+    color: #ffffff;
+    text-shadow:2px 1px 1px #0b364b;
 }
 .foot{
     background: rgba(0, 0, 0, 0.831);
